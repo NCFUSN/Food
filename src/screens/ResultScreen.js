@@ -58,7 +58,7 @@ const ResultScreen = ({navigation}) => {
 
 const styles = StyleSheet.create({
   container: {
-    margin: 5,
+    margin: 6,
     flex: 1
   },
   galleryItem: {
